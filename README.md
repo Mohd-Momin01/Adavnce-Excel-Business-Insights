@@ -29,6 +29,8 @@ Quantity & Amount
 City Information
 🔧 Data Cleaning & Preparation
 
+![ANNAUL SALES REPORT 2025](ANNAUL SALES REPORT 2025.png)
+
 Before building the dashboard, I performed multiple data-cleaning steps:
 
 Corrected inconsistent gender values
