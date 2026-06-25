@@ -1,21 +1,24 @@
-Excel-Business-Insights-Dashboard
-Interactive Excel Dashboard analyzing store sales, customer behavior, refunds, and channel performance using Pivot Tables and Business Analytics.
+# Excel-Business-Insights-Dashboard #
+## Interactive Excel Dashboard analyzing store sales, customer behavior, refunds, and channel performance using Pivot Tables and Business Analytics. ##
+---
 
 
 This project is an end-to-end Excel Sales Dashboard built to analyze store performance, customer behavior, sales trends, refund patterns, and order status using raw transactional data.
 I used Excel Pivot Tables, Pivot Charts, Data Cleaning, and Business Analytics techniques to transform raw data into meaningful business insights for better decision-making. 
+---
 
 🛠 Tools & Skills Used
-Microsoft Excel
-Pivot Tables & Pivot Charts
-Data Cleaning
-Dashboard Design
-Data Visualization
-Conditional Formatting
-Business Analytics
-📂 Dataset Information
 
-The dataset includes:
+* Microsoft Excel
+* Pivot Tables & Pivot Charts
+* Data Cleaning
+* Dashboard Design
+* Data Visualization
+* Conditional Formatting
+* Business Analytics
+---
+#📂 Dataset Information
+##The dataset includes:
 
 Order ID
 Customer ID
@@ -27,9 +30,10 @@ Sales Channel
 Product Category
 Quantity & Amount
 City Information
-🔧 Data Cleaning & Preparation
+---
+#🔧 Data Cleaning & Preparation
 
-![ANNAUL SALES REPORT 2025](ANNAUL SALES REPORT 2025.png)
+![ANNAUL SALES REPORT 2025](ANNAUL SALES REPORT 2025/ANNAUL SALES REPORT 2025.png)
 
 Before building the dashboard, I performed multiple data-cleaning steps:
 
