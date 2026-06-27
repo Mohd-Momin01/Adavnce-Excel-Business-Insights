@@ -12,17 +12,15 @@ This project is an **end-to-end Excel Sales Dashboard** built to analyze store p
 I used **Excel Pivot Tables**, **Pivot Charts**, **Data Cleaning**, and **Business Analytics** techniques to transform raw data into meaningful business insights for better decision-making.
 
 ---
-## 📷 Dashboard Preview
-
 ### Main Dashboard
 
-![Avavnce Excel Business Insights](Report_images/Annual_Sales_Report.png)
+![Main Dashboard](Report_images/Annual_Sales_Report.png)
+
+---
 
 ### Key Insights Panel
-Adavance.png)
 
-### Refund Analysis
-![Refund Analysis](ANNAUL%20SALES%20REPORT%202025/refund_analysis.png)
+![Key Insights](Report_images/Key_Insights.png)
 
 ---
 
