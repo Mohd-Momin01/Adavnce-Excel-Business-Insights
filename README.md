@@ -14,7 +14,7 @@ I used **Excel Pivot Tables**, **Pivot Charts**, **Data Cleaning**, and **Busine
 ---
 ### Main Dashboard
 
-![Main Dashboard](Report_images/Annual_Sales_Report.png)
+![Main Dashboard](Report_images/Main_Dashboard.png)
 
 ---
 
