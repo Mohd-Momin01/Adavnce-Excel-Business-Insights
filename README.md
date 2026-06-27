@@ -2,7 +2,6 @@
 
 ## Interactive Excel Dashboard analyzing store sales, customer behavior, refunds, and channel performance using Pivot Tables and Business Analytics.
 
-![Dashboard Preview](ANNAUL%20SALES%20REPORT%202025/ANNAUL%20SALES%20REPORT%202025.png)
 
 ---
 
@@ -11,6 +10,18 @@
 This project is an **end-to-end Excel Sales Dashboard** built to analyze store performance, customer behavior, sales trends, refund patterns, and order status using raw transactional data from an e-commerce store.
 
 I used **Excel Pivot Tables**, **Pivot Charts**, **Data Cleaning**, and **Business Analytics** techniques to transform raw data into meaningful business insights for better decision-making.
+
+---
+## 📷 Dashboard Preview
+
+### Main Dashboard
+![Annual Sales Report 2025](ANNAUL%20SALES%20REPORT%202025/ANNAUL%20SALES%20REPORT%202025.png)
+
+### Key Insights Panel
+![Key Insights](ANNAUL%20SALES%20REPORT%202025/key_insights.png)
+
+### Refund Analysis
+![Refund Analysis](ANNAUL%20SALES%20REPORT%202025/refund_analysis.png)
 
 ---
 
@@ -240,20 +251,6 @@ Through this project, I improved my skills in:
 
 ---
 
-## 📷 Dashboard Preview
-
-### Main Dashboard
-![Annual Sales Report 2025](ANNAUL%20SALES%20REPORT%202025/ANNAUL%20SALES%20REPORT%202025.png)
-
-### Key Insights Panel
-![Key Insights](ANNAUL%20SALES%20REPORT%202025/key_insights.png)
-
-### Refund Analysis
-![Refund Analysis](ANNAUL%20SALES%20REPORT%202025/refund_analysis.png)
-
-
-
----
 
 ## 🚀 Future Improvements
 
