@@ -15,10 +15,11 @@ I used **Excel Pivot Tables**, **Pivot Charts**, **Data Cleaning**, and **Busine
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-![Annual Sales Report 2025](ANNAUL%20SALES%20REPORT%202025/ANNAUL%20SALES%20REPORT%202025.png)
+
+![Avavnce Excel Business Insights](Report_images/Annual_Sales_Report.png)
 
 ### Key Insights Panel
-![Key Insights](ANNAUL%20SALES%20REPORT%202025/key_insights.png)
+Adavance.png)
 
 ### Refund Analysis
 ![Refund Analysis](ANNAUL%20SALES%20REPORT%202025/refund_analysis.png)
